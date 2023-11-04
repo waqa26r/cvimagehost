@@ -1,7 +1,7 @@
 ﻿
 opencv-python
 streamlit
-cv2
+
 numpy
 PIL
 Pillow
